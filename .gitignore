@@ -1,0 +1,11 @@
+.idea/
+*.iml
+*.iws
+credential.properties
+
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
